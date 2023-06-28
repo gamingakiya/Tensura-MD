@@ -10,38 +10,38 @@ global.mods = ['62895627514070'] //ganti pakai nomormu biar bot berfungsi
 global.prems = ['62895627514070'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ʀᴀʏ'
-global.numberowner = '62895627514070' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/79695' //ganti pakai Instagram mu
-global.github = 'https://github.com/RyhnXD' //ganti aja pakai githubmu
-global.tt = 'ᴀᴅᴀ' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/67755' //jngn ganti hargai creator
-global.ss = 'ᴀᴅᴀ' //jngn ganti hargai creator
-global.sss = 'ᴀᴅᴀ' //jngn ganti hargai creator
-global.yt = 'ɢᴀ ᴀᴅᴀ'
-global.dana = 'ga ada :v' //ganti pakai nomor dana mu
+global.nameowner = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰'
+global.numberowner = '94767973534' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com/0_akila_sandaruwan_0?igshid=MzNlNGNkZWQ4Mg==' //ganti pakai Instagram mu
+global.github = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰' //ganti aja pakai githubmu
+global.tt = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰' //ganti aja pakai tiktok mu
+global.sc = 'https://www.youtube.com/@GAMING_BASSA' //jngn ganti hargai creator
+global.ss = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰' //jngn ganti hargai creator
+global.sss = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰' //jngn ganti hargai creator
+global.yt = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰'
+global.dana = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰 :v' //ganti pakai nomor dana mu
 global.pulsa = '0895627514070' //ganti pakai nomor pulsa mu
 global.gopay = 'Ga ada :v' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ʟᴜᴍɪɴᴏᴜs-ᴍᴅ' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2' //ganti pakai grup mu
-global.web = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://chat.whatsapp.com/J5nGyTN0afU4o6uPHk2ab2' //ganti pakai Instagram mu
+global.namebot = '𝙺𝙸𝙽𝙶ᐵ⃨ᵒᶠ⃝⃤⃨⃩𝙖𝙠𝙞𝙮𝙖🇱🇰' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/CE7tKSTKQhuIe6fWaIA0Cs' //ganti pakai grup mu
+global.web = 'https://chat.whatsapp.com/CE7tKSTKQhuIe6fWaIA0Cs' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://chat.whatsapp.com/CE7tKSTKQhuIe6fWaIA0Cs' //ganti pakai Instagram mu
 global.saweria = 'https://saweria.co/zifabotz123' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/62895627514070' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/+94767973534' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/4ebea141a2d110c9959f6.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/4ebea141a2d110c9959f6.jpg' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/096f342e046a046e0cae7.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/3b4d1b83ac03f9590e1ac.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/4ebea141a2d110c9959f6.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/99d059d8b69a6740af1c6.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/99d059d8b69a6740af1c6.jpg' //ini juga ganti
-global.fotonya8 = 'https://telegra.ph/file/4ebea141a2d110c9959f6.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/fe1253635bf8472b66bce.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = 'https://telegra.ph/aki-king-06-28' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/aki-06-28' //ini juga ganti pakai foto bot mu
+global.fotonya3 = 'https://telegra.ph/aki-06-28' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/aki-06-28' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/aki-06-28' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/aki-06-28' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/aki-06-28' //ini juga ganti
+global.fotonya8 = 'https://telegra.ph/aki-06-28' //foto session
+global.donasi = 'https://telegra.ph/aki-06-28' //ganti pakai poto payment atau apa
 global.lolkey = 'bukanitucuy14315195' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'f9fccfcff1' //ganti jadi apikey lu kalau expired
 global.wm = 'ʟᴜᴍɪɴᴏᴜs-ᴍᴅ'
